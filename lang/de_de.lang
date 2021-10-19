@@ -1,0 +1,53 @@
+##	// <?php echo  $this->i18n('nld_config_info'); ?>
+##  '.$this->i18n('nld_config_info').'
+
+## Titel
+nld_config = Einstellungen
+nld_title = Newsletter Designer
+
+## Addon allgemein
+config_save = sichern
+config_saved = Einstellung wurde gespeichert
+
+## Pages Tabs
+configuration = Konfiguration
+readme = Read me
+items = HTML-Daten
+sample = Vorlagen
+table = Tabelle
+info = Info
+
+
+## panel & panel-heading
+mld_generate_style = generierte Styles
+mld_dump_style = dump Styles
+nld_config_class_colorpicker = Class Colorpicker
+
+## help
+nld_config_list_help = https://developer.mozilla.org/de/docs/Web/CSS/list-style
+nld_config_fontweight_help =  https://developer.mozilla.org/de/docs/Web/CSS/font-weight
+nld_config_link_help = https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Styling_links
+nld_config_tables_help = https://developer.mozilla.org/de/docs/Learn/HTML/Tables
+
+## Module
+module = Module
+modul_installieren = Modul installieren
+nld_modul_install = Modul installieren
+moduluebersicht     = Modulsammlung
+config_fehler       = config.inc nicht vorhanden in:
+modul_angelegt      = Modul wurde angelegt
+
+## Templates
+templates = Templates
+template_installieren  = Template installieren
+
+## ERROR
+info_fehler         = info.inc nicht vorhanden in:
+input_fehler        = input.inc nicht vorhanden in:
+output_fehler       = output.inc nicht vorhanden in:
+template_fehler     = template.inc nicht vorhanden in:
+nld_template_name = Newsletter
+nld_modulname = NL Designer
+
+## Meldung
+nld_config_saved = Einstellungen wurden gespeichert.
